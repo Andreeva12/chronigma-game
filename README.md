@@ -23,7 +23,7 @@ Comprehensive quality assurance testing for **Chronigma**, a time-travel puzzle 
 - **Documentation**: Markdown, plain text logs
 
 ## 📁 Project Structure
-'''
+```
 Chronigma_QA_Report_2024/
 ├── 1_Test_Plan/ # Testing documentation
 │ ├── checklist_functional.txt # Functional testing checklist
@@ -47,7 +47,7 @@ Chronigma_QA_Report_2024/
 │ └── FINAL_Test_Summary_Report.md
 │
 └── README.md # This file
-'''
+```
 
 
 ## 📊 Test Results Summary
