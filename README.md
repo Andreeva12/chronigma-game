@@ -7,7 +7,7 @@ Comprehensive quality assurance testing for **Chronigma**, a time-travel puzzle 
 - **Title**: Chronigma
 - **Genre**: Time-travel puzzle game
 - **Platform**: Steam (Windows)
-- **Store Page**: https://store.steampaged.com/app/4051150/Chronigma/
+- **Store Page**: https://store.steampowered.com/app/4051150/Chronigma/
 - **Tested Version**: Public build as of 11- 26, 2026
 
 ## 🧪 Testing Environment
