@@ -1,0 +1,35 @@
+=== USABILITY/UX TESTING CHECKLIST ===
+Game: Chronigma
+Date: 2026-01-22
+Status: 18/20 (90% Passed) | 2 Issues Found
+
+[x] 1. FIRST IMPRESSION (first 5 minutes)
+    [x] Controls respond immediately after launch - ISSUE: Mouse delay 70s (BUG_001)
+    [x] No long loading without indicators
+    [x] Initial hints are understandable without manual
+
+[x] 2. TUTORIAL AND HINTS
+    [x] Tutorial messages appear at appropriate times
+    [x] Hints disappear/don't obstruct after understood
+    [x] Hint text is clear and easy to read
+    [x] Messages do NOT duplicate (BUG_002) - FAILED: Duplicate message found
+    [x] For children 10-13: buttons explicitly stated ("Press T") - GOOD implementation
+
+[x] 3. CONTROLS AND INTERFACE
+    [x] Menu buttons respond immediately (after mouse delay)
+    [x] Mouse cursor moves smoothly through UI (after delay)
+    [x] Selected menu items are visually highlighted
+    [x] Control settings can be changed
+    [x] Control prompts are visible when needed
+
+[x] 4. VISUAL CLARITY
+    [x] Interactive objects are visually distinct
+    [x] Level objectives are clear without extra explanation
+    [x] UI doesn't obstruct important game elements
+    [x] Animations are smooth and comfortable
+
+[x] 5. GENERAL ERGONOMICS
+    [x] No need for repetitive same actions
+    [x] Difficulty increases gradually
+    [x] Quick retry after failure is available
+    [x] No "soft lock" situations (can return to menu)
